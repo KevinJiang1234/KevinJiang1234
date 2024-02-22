@@ -1,7 +1,7 @@
 ### Hi i am Kevin.I am 15 years old.
-About me:
-I like sports,such as football,badminton.
-I like digital technology best,because i think it's different from other subjects and i can explor more from the internet.
+### About me:
+### I like sports,such as football,badminton.
+### I like digital technology best,because i think it's different from other subjects and i can explor more from the internet.
 <!--
 **KevinJiang1234/KevinJiang1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
